@@ -1,0 +1,4 @@
+*.o
+vector_analyzer/build
+vector_analyzer/*.dep
+
